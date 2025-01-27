@@ -1,0 +1,4 @@
+1. Complete project is in folder "vms".
+2. Connection file is placed in a directory outside main project to make it only accessible through php files on this server.
+3. Database is backed-up as vms.sql.
+4. There is an admin user already created in database. For security reasons md5 encryption is used for password. You can use "1" as password and cnic "1111111111111" for the admin user.
